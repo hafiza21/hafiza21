@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [https://hafiza21.github.io/My-portfolio-/](https://hafiza21.github.io/My-portfolio-/)
+- 👨‍💻 All of my projects are available at [(https://hafiza21.github.io/myprtofolio/)](https://hafiza21.github.io/myprtofolio/)
 
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
