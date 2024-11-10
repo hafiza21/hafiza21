@@ -6,8 +6,8 @@
 
 - 🌱 I’m currently learning **React**
 
-- 👨‍💻 All of my projects are available at [(https://hafiza21.github.io/myprtofolio/)](https://hafiza21.github.io/myprtofolio/)
-
+- 👨‍💻 All of my projects are available at [(https://hafiza21.github.io/myprtofolio/)][
+](https://hafiza21.github.io/myportfolio/)
 - 💬 Ask me about **HTML,CSS,JavaScript**
 
 - 📫 How to reach me **hafizahusaini21@gmail.com**
